@@ -1,0 +1,12 @@
+[package]
+name = "bmbp_preview"
+version = "0.0.0"
+edition = "2021"
+authors = ["bmbp<rs_bmbp.163.com>"]
+description = "BMBP PRIVIEW"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/bmbper/bmbp_priview"
+repository = "https://github.com/bmbper/bmbp_priview"
+documentation = "https://github.com/bmbper/bmbp_priview"
+[dependencies]
